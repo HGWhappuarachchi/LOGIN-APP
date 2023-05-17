@@ -59,8 +59,8 @@ namespace LOGIN_APP
 
             DialogResult a;
             a = MessagBox.Show("Are you sure? ", "Done", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
-                
-                int ID=int.Parse
+
+            int ID = int.Parse
 
         }
     }
